@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
+/*Sabbir's*/	
 {
 	int a,b,c;
 	while((scanf("%d %d %d", &a, &b, &c))==3)
