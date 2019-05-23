@@ -7,3 +7,5 @@ for i in range(n):
     print("Sadia will be happy.")
   else:
     print("Oops!")
+	
+#sabbirs
