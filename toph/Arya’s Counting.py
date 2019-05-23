@@ -9,3 +9,5 @@ for i in range(n):
     print("Case {}: {}".format(i+1,"C"))
   else:
     print("Case {}: {}".format(i+1,"Confused"))
+	
+#sabbirs
