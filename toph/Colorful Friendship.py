@@ -1,8 +1,8 @@
-for i in range(int(input())):
-	int(input())
-	n = sum(map(int,input().split()))
-	print(n)
-
+n=int(input())
+if n==1:
+    print("1")
+else:
+    print("2")
 
 
 #Author : Sabbir Ahmed

@@ -1,8 +1,7 @@
-for i in range(int(input())):
-	int(input())
-	n = sum(map(int,input().split()))
-	print(n)
-
+n = int(input())
+for i in range(n):
+	m = int(input())
+	print(m+1)
 
 
 #Author : Sabbir Ahmed

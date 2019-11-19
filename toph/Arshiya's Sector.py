@@ -5,4 +5,6 @@ for i in range(n):
   area = (math.pi*r*r)*(a/360)
   print (area)
 	
-#sabbirs
+#Author : Sabbir Ahmed
+#Author URL: https://toph.co/u/Sabbirs
+#Github Pages: http://sabbirshawon.github.io/

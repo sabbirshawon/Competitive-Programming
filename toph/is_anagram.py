@@ -9,4 +9,6 @@ def anagram(a,b):
         print("No")
 anagram(a,b)
 
-#sabbirs 
+#Author : Sabbir Ahmed
+#Author URL: https://toph.co/u/Sabbirs
+#Github Pages: http://sabbirshawon.github.io/

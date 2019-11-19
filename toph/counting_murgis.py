@@ -9,4 +9,6 @@ for i in range(n):
     else:
         print(int(f(x-1)/f(y)/f(x-1-y)))	
         
-#sabbirs
+#Author : Sabbir Ahmed
+#Author URL: https://toph.co/u/Sabbirs
+#Github Pages: http://sabbirshawon.github.io/

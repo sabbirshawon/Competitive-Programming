@@ -1,8 +1,8 @@
-for i in range(int(input())):
-	int(input())
-	n = sum(map(int,input().split()))
-	print(n)
-
+n=input()
+if n=='Fever':
+    print("Go to hospital right now.")
+else:
+    print("Go to hospital.")
 
 
 #Author : Sabbir Ahmed

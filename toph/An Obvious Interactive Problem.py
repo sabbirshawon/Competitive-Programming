@@ -12,4 +12,6 @@ for i in range(1,26):
     else:
         break
 	
-#sabbirs
+#Author : Sabbir Ahmed
+#Author URL: https://toph.co/u/Sabbirs
+#Github Pages: http://sabbirshawon.github.io/

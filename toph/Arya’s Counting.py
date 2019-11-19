@@ -9,5 +9,8 @@ for i in range(n):
     print("Case {}: {}".format(i+1,"C"))
   else:
     print("Case {}: {}".format(i+1,"Confused"))
-	
-#sabbirs
+
+    
+#Author : Sabbir Ahmed
+#Author URL: https://toph.co/u/Sabbirs
+#Github Pages: http://sabbirshawon.github.io/

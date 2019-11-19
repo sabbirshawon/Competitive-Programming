@@ -5,4 +5,6 @@ for i in range(1,t+1,1):
 	print("Case",str(i)+":","%.2f" % area)
 
 	
-#sabbirs
+#Author : Sabbir Ahmed
+#Author URL: https://toph.co/u/Sabbirs
+#Github Pages: http://sabbirshawon.github.io/
